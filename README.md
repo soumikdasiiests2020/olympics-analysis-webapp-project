@@ -5,6 +5,7 @@ This web application provides an analysis of Olympic data, allowing users to exp
 
 ## Live Demo
 Check out the live demo of the web app [here](https://olympics-analysis-webapp-project-cforad2ute4urwwibmvjfn.streamlit.app/).
+The app is deployed on Streamlit Community Cloud, so it may take a few seconds to wake up from cold start.
 
 ## Features
 - **Interactive Data Visualization:** Explore Olympic data through interactive charts and graphs.
